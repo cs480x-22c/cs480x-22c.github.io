@@ -32,6 +32,19 @@ h2, ul {
 
 **12-Jan-2022: Disregard the below! This is showing last year's calendar at the moment. The general topics and pacing should be correct, however.**
 
+## Week 1
+
+### 12-Jan Wed   
+Topic: Overview of Visualization | Intro to Tools   
+Assigned: Assignment 0 - Course Survey   
+Assigned: Assignment 1 - Hello World: GitHub and d3   
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EZn9CVoWw_hChT_cB1aYqesBsCosATD0lOYrxey6_Ioejw?e=m6AX84)
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EYrkqG2tl7ZBsB8LW6946zcBf4Se1NFCd4YuYyauhgF0fQ?e=mFoDg9)
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EUAo6UdF6SlCuKi_YUGWzucBLmV6wEpnJqdTBk64MeUEMQ?e=1u8Itk)
+
+--- Old 21c calendar below -- To be updated ---
+
 ## Week 1 (Jan 25 - 29)
 
 ### 28-Jan Thu   

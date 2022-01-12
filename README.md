@@ -1,1 +1,2 @@
-# cs480x-22c.github.io
+Course website for cs480x-21c.github.io
+

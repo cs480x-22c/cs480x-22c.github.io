@@ -16,13 +16,5 @@ Office Hours -> 3-4p Friday @ Zoom (announced on Slack when they start)
 
 TAs   
 Noëlle Rakotondravony
-Office Hours -> 3-4p Monday @ Zoom (announced on Slack when they start) 
-
-SAs  
-Erich Schwarzrock   
-Office Hours -> Fri 4-5p   
-Join Zoom Meeting   
-https://wpi.zoom.us/j/91056622402   
-Meeting ID: 910 5662 2402
-
+Office Hours -> TBA  
 

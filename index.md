@@ -54,12 +54,12 @@ title: home
 
 Data Visualization (cs480x, cs4802, bcb4802)
 
-Term C -- 2021
+Term C -- 2022
 
 Location<br>
-Zoom! (For now. Foisie later.)<br>
+Innovation Studio 205 (or Zoom!)<br>
 M/Th 1:00-2:50pm
 
 ### Announcements
 
-- wed-01-27: New? [Check out init](/init/) to get started.
+- wed-01-12: New? [Check out init](/init/) to get started.

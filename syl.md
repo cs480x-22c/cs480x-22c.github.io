@@ -24,12 +24,15 @@ After successful completion of this course, you will be able to:
 Required Text
 ---
 
-![Visualization Analysis and Design Cover](/img/munzner-book.jpg)
+We are going with no required text in C22, and using assorted videos and readings about visualization from the web instead. An experiment!
 
-The text we're using for readings in this course is [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914){:target="_blank"}.
 
 Recommended Texts
 ---
+
+![Visualization Analysis and Design Cover](/img/munzner-book.jpg)
+
+The text we've used for readings in the past in this course is [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914){:target="_blank"}.
 
 ![Elegant Graphics for Data Analysis Cover](/img/wickham-book.jpg)
 
@@ -64,7 +67,7 @@ Programming Language
 
 We'll be using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"} with [d3.js](https://d3js.org/){:target="_blank"} to develop visualizations in this course.
 
-You also may have heard of [Processing](https://processing.org/){:target="_blank"}, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
+P5.js is also awesome.
 
 Discussion / Questions
 ---
@@ -86,11 +89,10 @@ Grading
 
 Your course grade comes from three parts:
 
-- Assignments (35%)
-- Labs (10%)
-- Quizzes (15%)
+- Assignments (45%)
+- Labs/Participation (5%)
 - Reflections (10%)
-- Final Project (30%)
+- Final Project (40%)
 
 Academic Honesty
 ---
@@ -106,11 +108,16 @@ Any violation of the WPI's guidelines for academic integrity will result in no c
 Late Policy
 ---
 
-You will be allowed a one time one day late turn-in without penalty, assuming you have a legitimate reason as discussed with the professor. All other late assignments will be penalized by subtracting 30% of the total achievable points, but only if turned in within the first 24 hours after the due date. Between 24 to 48 hours late will result in a reduction of 70% of the total achievable points. Late point reductions cannot be made up by later improvements of the assignment. Certain deliverables may not allow for any late days, such as project deliverables and presentations.
+We provide three one day late turn-ins without penalty, please just discuss with the professor as soon as you feel you will not make a deadline. 
 
-I would like you to be aware of the rationale behind late policies. For one, a late policy is a measure to ensure you stay on track and do not run into the problem of "snowballing" with your other responsibilities. At a higher level, late assignments place extra burden on both staff and your fellow classmates. Staff typically allocate time to grade assignments shortly after the due date. Late assignments break this and require staff to allocate extra sessions at the expense of their other responsibilities. This, in turn, places a burden on the entire class as grading must be complete before handing grades and critical feedback back to students.
+Here's some rationale behind the policy:
+A late policy is a measure to ensure you stay on track and do not run into the problem of "snowballing" with your other responsibilities. 
 
-For these reasons, please be considerate and turn your projects in on time. If something comes up, reach out early rather than later.
+At a higher level, late assignments place extra burden on both staff and your fellow classmates. Staff typically allocate time to grade assignments after the due date. 
+
+Late assignments require staff to allocate extra sessions at the expense of their other responsibilities. This, in turn, can place a burden on the entire class as grading must be complete before handing grades and critical feedback back to students.
+
+For these reasons, please be make an effort to turn your projects in on time. If something comes up, reach out early rather than later. We can help, I promise!
 
 Useful Resources
 ---

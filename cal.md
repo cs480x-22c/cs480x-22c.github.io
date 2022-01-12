@@ -30,7 +30,7 @@ h2, ul {
 
 </style>
 
-**25-Jan-2021: Don't consider the calendar final while this message is here. Topics and assignment due dates will change in the first week or two.**
+**12-Jan-2022: Disregard the below! This is showing last year's calendar at the moment. The general topics and pacing should be correct, however.**
 
 ## Week 1 (Jan 25 - 29)
 

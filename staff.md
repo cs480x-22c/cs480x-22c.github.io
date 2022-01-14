@@ -15,6 +15,6 @@ Instructor
 Office Hours -> 3-4p Friday @ Zoom (announced on Slack when they start)
 
 TAs   
-Noëlle Rakotondravony
-Office Hours -> TBA  
+Noëlle Rakotondravony 
+Office Hours -> 1-2:50p Tuesday @ Zoom [link](https://wpi.zoom.us/j/92174869463)
 

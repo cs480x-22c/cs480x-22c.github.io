@@ -78,6 +78,10 @@ Due: Assignment 1 -- 1:00pm
 ### 24-Jan Mon   
 Topic: Visual Channels  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EY32mza-rDZKsjxdNtPb-7YBBKI0JtPdPMo9pMDj_d5HWg?e=ssXhGR)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EdnKu_Uqpj5LlcMiAHkLMIsBqBvsInz07bubIsgwycEPPw?e=VcPdiG)    
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERJe1q-d-Q5EhkRQyFS5aA4BiwPtoP8sFlUCJgskZQB4jA?e=wZvzoc)    
+
 ### 27-Jan Thu   
 Topic: Color   
 Assigned: Assignment 3 - Replicating a Classic Experiment   

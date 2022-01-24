@@ -73,6 +73,8 @@ Due: Assignment 1 -- 1:00pm
 
 ## Week 3
 
+[Watch: Steve Franconeri | Thinking with Data Visualizations, Fast and Slow](https://www.youtube.com/watch?v=wrlpvRDt-JI)
+
 ### 24-Jan Mon   
 Topic: Visual Channels  
 

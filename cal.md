@@ -73,7 +73,7 @@ Due: Assignment 1 -- 1:00pm
 
 ## Week 3
 
-[Watch: Steve Franconeri | Thinking with Data Visualizations, Fast and Slow](https://www.youtube.com/watch?v=wrlpvRDt-JI)
+[Watch: Steve Franconeri :: Thinking with Data Visualizations, Fast and Slow](https://www.youtube.com/watch?v=wrlpvRDt-JI)
 
 ### 24-Jan Mon   
 Topic: Visual Channels  
@@ -85,12 +85,12 @@ Topic: Visual Channels
 ### 27-Jan Thu   
 Topic: Color   
 Assigned: Assignment 3 - Replicating a Classic Experiment   
-Due: Assignment 2 -- 1:00pm   
 
 ## Week 4
 
 ### 31-Jan Mon   
 Topic: Visualizing Tabular Data
+Due: Assignment 2 -- 1:00pm   
 
 ### 3-Feb Thu   
 Topic: Visualizing Tabular Data, 2    

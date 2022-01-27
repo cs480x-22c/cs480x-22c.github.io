@@ -86,6 +86,10 @@ Topic: Visual Channels
 Topic: Color   
 Assigned: Assignment 3 - Replicating a Classic Experiment   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EbizhZolzJ1GoCTXPUGgGdABvylXER8pwcI7fRuOV5JBOQ?e=EGqaOc)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EW-GFvMgYmVGh9g3a30rvzMBuQAEnJMsTxLbGNsGbt2RsA?e=XVbg6p)    
+[Code](https://observablehq.com/d/4f28a37068afd93a)    
+
 ## Week 4
 
 ### 31-Jan Mon   

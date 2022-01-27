@@ -90,6 +90,9 @@ Assigned: Assignment 3 - Replicating a Classic Experiment
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EW-GFvMgYmVGh9g3a30rvzMBuQAEnJMsTxLbGNsGbt2RsA?e=XVbg6p)    
 [Code](https://observablehq.com/d/4f28a37068afd93a)    
 
+Watch (h/t Joshua Malcarne): [Why The Ancient Greeks Couldn't See Blue
+](https://www.youtube.com/watch?v=D1-WuBbVe2E)
+
 ## Week 4
 
 ### 31-Jan Mon   

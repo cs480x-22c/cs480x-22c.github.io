@@ -99,6 +99,11 @@ Watch (h/t Joshua Malcarne): [Why The Ancient Greeks Couldn't See Blue
 Topic: Visualizing Tabular Data
 Due: Assignment 2 -- 1:00pm   
 
+[Code Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EQx2z573pKRDkiu33meziiIBo-iPWbFZN123zIwXGWVkSQ?e=r5n5RN)    forms.gle/g8RofVJpMR3bkHKh6
+[Slide Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EbaErj_NTIxDkjfvBNgad0cBz3el6fA_vrNtYIqasUc2gw?e=2TMoEb)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EbU6i1o8vg9Llv-pAYy3a5wBfu489NdAmFqOQOvSqnl0aA?e=Ll84xT)    
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EUiJldTLK7NJsff6R_z95qoBUZSClezAra0Rd4ofWeIRpA?e=gwXDiG)    
+
 ### 3-Feb Thu   
 Topic: Visualizing Tabular Data, 2    
 Assigned: Final Project

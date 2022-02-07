@@ -114,6 +114,10 @@ Assigned: Final Project
 Topic: Visualizing Spatial Data   
 Assigned: Assignment 4 - Multiple Views   
 
+[Video (Lecture)](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EWS7TMUMkhRJgmvAaRAmLLwBazZHUujxR35-jJ-v1f2ADw?e=dxxoUp)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ESQm3QHyzqtMsLKXldDWQ6UBOZojXEULUXZW8eQbYAQnfw?e=ai7yHE)    
+[Video (Discussion)](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EQRSQ9GQZalMuIuC0qcm0OgB3i8OD0bXVZPm5fADAeOy8Q?e=2Z2wre)    
+
 ### 10-Feb Thu   
 Topic: Visualizing Spatial Data, 2    
 Due: Assignment 3 -- 1:00pm   

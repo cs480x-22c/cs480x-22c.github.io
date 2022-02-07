@@ -120,7 +120,6 @@ Assigned: Assignment 4 - Multiple Views
 
 ### 10-Feb Thu   
 Topic: Visualizing Spatial Data, 2    
-Due: Assignment 3 -- 1:00pm   
 
 ## Week 6
 Reading:   
@@ -128,6 +127,9 @@ VAD Chapters 9, 11
 
 ### 14-Feb Mon   
 Topic: Visualizing Networks   
+
+### 15-Feb Tue   
+Due: Assignment 3 -- 1:00pm   
 
 ### 17-Feb Thu   
 Topic: Visualizing Trees / Hierarchies   

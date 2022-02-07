@@ -105,7 +105,7 @@ Due: Assignment 2 -- 1:00pm
 [Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EUiJldTLK7NJsff6R_z95qoBUZSClezAra0Rd4ofWeIRpA?e=gwXDiG)    
 
 ### 3-Feb Thu   
-Topic: Visualizing Tabular Data, 2    
+Topic: A3 Workday      
 Assigned: Final Project
 
 ## Week 5

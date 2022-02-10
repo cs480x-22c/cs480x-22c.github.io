@@ -121,6 +121,9 @@ Assigned: Assignment 4 - Multiple Views
 ### 10-Feb Thu   
 Topic: Visualizing Spatial Data, 2    
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdM1YusdpYVKo5BznS5uJ-UBkDx5B-_XHtrtS97I3PHNXw?e=DlPong)    
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ET7d-kekHnRNl7PHqaaDZ2IBy0CNoELIvd3cvADaLq4wxA?e=lMyBow)    
+
 ## Week 6
 Reading:   
 VAD Chapters 9, 11

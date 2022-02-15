@@ -131,6 +131,9 @@ VAD Chapters 9, 11
 ### 14-Feb Mon   
 Topic: Visualizing Networks   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVbo1DjocYlHoaMMAUAluK0BvB49lfTLSPsNjZe8VhZeHQ?e=h94rhW)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EYK1uoNVw5JEvgR57c0fZmUBCL5L6y16Hbb7cLiwn8bsHw?e=EViHDw)    
+
 ### 15-Feb Tue   
 Due: Assignment 3 -- 1:00pm   
 

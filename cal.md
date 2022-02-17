@@ -141,6 +141,10 @@ Due: Assignment 3 -- 1:00pm
 Topic: Visualizing Trees / Hierarchies   
 Due: (Brief!) Project Proposals -- 11:59pm  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ETl548lVQHJGgHhjFG-PcbYB8LXr_NtI1Q4M5ZhntYO-cQ?e=1AdgwN)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EcwDTFpfzpBJiEH3HZuExxEB6mazHTvBGuReQHhFTExl-A?e=yRsLGf)    
+[Slides 2](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EZEbI1_h8SFPo-Gc7_SVKAsBBbUGOwIFg56slPXhU-7T2Q?e=yuMIgv)    
+
 ## Week 7 
 
 ### 21-Feb Mon   

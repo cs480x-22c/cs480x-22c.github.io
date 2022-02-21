@@ -152,12 +152,14 @@ Topic: More on Interaction
 
 ### 24-Feb Thu   
 No Class: Advising Day
-Due: Assignment 4 -- 1:00pm   
 
 ## Week 8 
 
 ### 28-Feb Mon   
 Topic: FP Workday 
+
+### 1-Mar Tue  
+Due: Assignment 4 (OPTIONAL) -- 1:00pm   
 
 ### 3-Mar Wed   
 Topic: FP Presentations!  

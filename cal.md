@@ -161,7 +161,7 @@ Topic: FP Workday
 ### 1-Mar Tue  
 Due: Assignment 4 (OPTIONAL) -- 1:00pm   
 
-### 3-Mar Wed   
+### 3-Mar Thu   
 Topic: FP Presentations!  
 Due: Final Project -- 1:00pm   
 
